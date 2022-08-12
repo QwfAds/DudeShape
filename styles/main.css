@@ -745,6 +745,10 @@ img {
 .search-bar__table-cell_fav {
   width: 44px;
 }
+
+.search-bar__table-cell_fav a{
+  color: #222222;
+}
 .search-bar__table-cell_fav a:active {
   color: #305f64;
 }
